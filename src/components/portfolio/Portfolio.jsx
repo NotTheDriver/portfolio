@@ -8,7 +8,7 @@ const items = [
     id: 1,
     title: "Music Promo for Charity Concert",
     img: "https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg",
-    desc: "C",
+    desc: "",
     src:"youtube.com",
   },
   {
